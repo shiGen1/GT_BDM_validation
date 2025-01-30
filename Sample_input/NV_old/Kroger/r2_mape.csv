@@ -1,0 +1,2 @@
+﻿"Model Iteration","Pipe Key","Time","Dependent Variable","Fitted Observations","R bar^2","Standard Error","MAPE","DW","Jarque Bera","AIC","Bayesian R^2","Baye. R^2 STD","ELPD","ELPD SE","Eff Num Params","Warning","Scale","Marginal Log Like","ELPD Ratio","Bayes Factor"
+"This Model","GMI_NATURE VALLEY_Models_Kroger_v15_FINAL_MODEL.rova.json","29-Jan-25 00:19:28","KROGER_KPI_GMI_NATURE VALLEY_SALES_EQUIVALENT_UNIT_1_QTY","156","0.85752","0.19435","0.04481","0.98782","4.95689","-367.78258","0.81677","0.01978","209.07656","10.4646","17.15984","true","log","","",""
